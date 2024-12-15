@@ -1,7 +1,7 @@
 # Create T3 Gallary
 
 ## TODO
-- [ ] Deploy
+- [x] Deploy
 - [ ] Mock data
 - [ ] setting up db
 - [ ] db to ui
