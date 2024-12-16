@@ -14,12 +14,11 @@ export default function HomePage() {
           {[...mockUrl, ...mockUrl, ...mockUrl].map((image, index)=> 
             (
               <div key={index} className="w-44 h-40">
-                <img className="w-full h-full object-cover" src={image}/>
+                <img className="w-full h-full object-cover mt-5" src={image}/>
               </div>
             )
           )}
         
-        Gallary in progress
       </div>
     </main>
   );

@@ -2,7 +2,7 @@
 
 ## TODO
 - [x] Deploy
-- [ ] Mock data
+- [x] Mock data
 - [ ] setting up db
 - [ ] db to ui
 - [ ] auth
